@@ -53,15 +53,7 @@ a {
   padding: 36px 24px 48px;
 }
 
-.back {
-  font-size: 13px;
-  color: var(--muted);
-  text-decoration: none;
-}
 
-.back:hover {
-  color: var(--ink);
-}
 
 .hero {
   padding: 48px 0 28px;

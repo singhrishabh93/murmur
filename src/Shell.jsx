@@ -1,9 +1,6 @@
 export default function Shell({ repo, children }) {
   return (
     <div className="page">
-      <a className="back" href="https://www.rishabhsingh.tech/mini-apps">
-        ← mini apps
-      </a>
       {children}
       <footer className="footer">
         built by{" "}
